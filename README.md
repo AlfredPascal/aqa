@@ -11,4 +11,5 @@ qa_automation_2026_spring in RedRover.school
 |Lesson 5 |No |Yes |No |03.19 |
 |Lesson 6 |No |Yes |No |03.23 |
 |Lesson 7 |No |Yes |No |03.23 |
+|Lesson 8 |No |Yes |No |04.07 |
 
